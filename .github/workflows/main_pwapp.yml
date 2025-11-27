@@ -57,4 +57,4 @@ jobs:
           app-name: 'pwapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3943BEACC7B74388948081E38D8E1625 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9E947C4EDEEB48599496386FC04FEF46 }}
