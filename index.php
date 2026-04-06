@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
+    <?php echo "HI"; ?>
     <header id="header">
       <div class="header-content-div">
         <a href="#home-sec">
